@@ -1,0 +1,36 @@
+/*
+== jquery thumbnail/image scroller ==
+Plugin URI: http://manos.malihu.gr/jquery-thumbnail-scroller/
+*/
+	.mTSWrapper{
+		position: relative;
+		overflow: hidden;
+		height: 100%;
+		max-width: 100%;
+		outline: none;
+		direction: ltr;
+	}
+
+	.mTSContainer{
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+	}
+
+	ul.mTSContainer, ol.mTSContainer{ list-style: none; }
+
+	.mTSThumb, 
+	ul.mTSContainer > li img{ vertical-align: bottom; }
+
+	.mTS_vertical .mTSContainer{
+		margin-top: 0 !important;
+		margin-bottom: 0 !important;
+	}
+
+	.mTS_horizontal .mTSContainer{
+		margin-left: 0 !important;
+		margin-right: 0 !important;
+	}
+
+	.mTS_horizontal .mTSThumbContainer, 
+	.mTS_horizontal ul.mTSContainer > li{ float: left; }

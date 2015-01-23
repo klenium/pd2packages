@@ -1,0 +1,230 @@
+@import url(http://fonts.googleapis.com/css?family=Fjalla+One);
+body
+{
+	margin: 0px auto;
+	padding: 20px;
+	background: #0b0b15;
+	font-family: Fjalla One;
+	color: #FFF;
+	height: 100%;
+	width: 960px;
+}
+header
+{
+	margin-bottom: 10px;
+	text-align: center;
+}
+header h1
+{
+	display: inline;
+	margin: 0px 0px 0px 15px;
+	text-transform: uppercase;
+	position: relative;
+	top: -6px;
+	font-size: 35px;
+}
+nav
+{
+	width: 777px;
+	position: relative;
+	height: 325px;
+	margin: 0px auto;
+}
+nav.small
+{
+	float: left;
+	width: 170px;
+	height: auto;
+}
+nav ul
+{
+	padding: 0px;
+	margin: 0px;
+}
+nav > ul
+{
+	/*display: table;*/
+	list-style-type: none;
+	width: 100%;
+}
+nav > ul > li:nth-child(1)
+{
+	top: 10px;
+	left: 15px;
+}
+nav > ul > li:nth-child(2)
+{
+	top: 10px;
+	left: 202px;
+}
+nav > ul > li:nth-child(3)
+{
+	top: 10px;
+	left: 310px;
+}
+nav > ul > li:nth-child(4)
+{
+	top: 120px;
+	left: 310px;
+}
+nav > ul > li:nth-child(5)
+{
+	top: 10px;
+	left: 465px;
+}
+nav > ul > li:nth-child(6)
+{
+	top: 10px;
+	left: 631px;
+}
+nav > ul > li:nth-child(7)
+{
+	top: 170px;
+	left: 631px;
+}
+nav.small > ul > li
+{
+	position: static;
+	top: 0px;
+	left: 0px;
+}
+nav > ul > li
+{
+	position: absolute;
+}
+nav ul li li, nav > ul > li > span
+{
+	list-style-type: none;
+	padding: 2px 0px;
+	cursor: pointer;
+	display: block;
+}
+nav.small ul ul
+{
+	display: none;
+}
+nav > ul > li > ul > li[data-map], nav > ul > li > ul > li > span
+{
+	padding-left: 20px;
+	display: block;
+}
+nav > ul > li > ul > li > ul > li[data-map]
+{
+	padding-left: 40px;
+}
+nav > ul > li > ul > li > ul > li > ul > li
+{
+	padding-left: 60px;
+}
+nav .selected
+{
+	background-color: rgba(21, 111, 165, 0.5);
+}
+.dlc:after
+{
+	color: #FFE305;
+	text-transform: uppercase;
+	content: "dlc";
+	margin-left: 7px;
+}
+.frame
+{
+	position: relative;
+	padding: 10px 15px;
+}
+.frame:before
+{
+	height: 10px;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	border-left: 2px solid white;
+	border-right: 2px solid white;
+	content: " ";
+}
+.frame:after
+{
+	height: 10px;
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+	border-left: 2px solid white;
+	border-right: 2px solid white;
+	content: " ";
+}
+.frame > :first-child:before
+{
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+	left: 0px;
+	width: 10px;
+	border-top: 2px solid white;
+	border-bottom: 2px solid white;
+	content: " ";
+}
+.frame > :first-child:after
+{
+	position: absolute;
+	top: 0px;
+	bottom: 0px;
+	right: 0px;
+	width: 10px;
+	border-top: 2px solid white;
+	border-bottom: 2px solid white;
+	content: " ";
+}
+section
+{
+	margin-left: 210px;
+	padding: 0px 10px;
+	display: none;
+}
+nav.small + section
+{
+	display: block;
+}
+#thumbnail img
+{
+	width: 90px;
+	height: 90px;
+	margin: 0px 5px;
+	cursor: pointer;
+}
+#thumbnail img.selected
+{
+	outline: 5px solid rgb(21, 111, 165);
+	outline-offset: -5px;
+}
+#thumbnail ul
+{
+	overflow: auto;
+	margin: 0px;
+	padding: 0px;
+	height: 90px;
+}
+#thumbnail > div
+{
+	width: 700px;
+}
+#thumbnail li
+{
+	height: 90px;
+}
+#image
+{
+	margin-bottom: 15px;
+}
+#image, #image > div
+{
+	height: 560px;
+}
+.area
+{
+	position: absolute;
+	width: 29px;
+	height: 29px;
+	cursor: pointer;
+}
