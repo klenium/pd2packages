@@ -1648,7 +1648,7 @@ $(function($)
 				]
 			]
 		},
-		{ // 41 The Bomb: Forest
+		{ // 41 The Bomb: Forest --
 			images: [
 				"http://i.imgur.com/zTRUGhu.jpg",
 				"http://i.imgur.com/FJIA124.jpg",
@@ -1745,7 +1745,31 @@ $(function($)
 				[379, 1286, 28],
 				[216, 1003, 29]
 			]
-		}
+		},
+		{ // 43 Car Shop
+			images: [
+				"http://i.imgur.com/YGL2Dwu.jpg",
+				"http://i.imgur.com/ZL8gvDf.jpg",
+				"http://i.imgur.com/Skvenq9.jpg",
+				"http://i.imgur.com/fByANmr.jpg",
+				"http://i.imgur.com/yl1m5CC.jpg",
+				"http://i.imgur.com/nYorQqd.jpg",
+				"http://i.imgur.com/a8tRA7a.jpg",
+				"http://i.imgur.com/nzLRJ5D.jpg",
+				"http://i.imgur.com/OjhNzcC.jpg",
+				"http://i.imgur.com/CS8GkJp.jpg",
+				"http://i.imgur.com/0TmAffG.jpg",
+				"http://i.imgur.com/HPCLL0Z.jpg",
+				"http://i.imgur.com/F9fUnUf.jpg",
+				"http://i.imgur.com/6JCtyoc.jpg",
+				"http://i.imgur.com/FacQdkj.jpg",
+				"http://i.imgur.com/FmqT9rm.jpg",
+				"http://i.imgur.com/AwqcpA5.jpg",
+				"http://i.imgur.com/7AzFXux.jpg",
+				"http://i.imgur.com/cCMojxC.jpg",
+				"http://i.imgur.com/HMHQncs.jpg"
+			]
+		},
 	];
 	$("nav li").each(function()
 	{
