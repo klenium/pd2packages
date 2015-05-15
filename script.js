@@ -1770,6 +1770,32 @@ $(function($)
 				"http://i.imgur.com/HMHQncs.jpg"
 			]
 		},
+		{ // 44 Meltdown --
+			images: [
+				"http://i.imgur.com/ZcGS5Jv.jpg",
+				"http://i.imgur.com/t8Rx0Ax.jpg",
+				"http://i.imgur.com/RP18JQI.jpg",
+				"http://i.imgur.com/PwziHHC.jpg",
+				"http://i.imgur.com/Jozji2Q.jpg",
+				"http://i.imgur.com/BbODi6t.jpg",
+				"http://i.imgur.com/Qdx4kFS.jpg",
+				"http://i.imgur.com/LxfsegZ.jpg",
+				"http://i.imgur.com/4gZump7.jpg",
+				"http://i.imgur.com/1m7czPz.jpg",
+				"http://i.imgur.com/hNWUafe.jpg",
+				"http://i.imgur.com/tXuUHwk.jpg",
+				"http://i.imgur.com/EbZorKS.jpg",
+				"http://i.imgur.com/9OeMgNR.jpg",
+				"http://i.imgur.com/SJ3Du72.jpg",
+				"http://i.imgur.com/TCXfINw.jpg",
+				"http://i.imgur.com/tBSyyqH.jpg",
+				"http://i.imgur.com/sFiU0ZB.jpg",
+				"http://i.imgur.com/nN57oKg.jpg",
+				"http://i.imgur.com/Wtdx1gE.jpg",
+				"http://i.imgur.com/PcQtZO7.jpg",
+				"http://i.imgur.com/paqCYkz.jpg"
+			]
+		}
 	];
 	$("nav li").each(function()
 	{
