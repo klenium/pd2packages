@@ -1795,6 +1795,35 @@ $(function($)
 				"http://i.imgur.com/PcQtZO7.jpg",
 				"http://i.imgur.com/paqCYkz.jpg"
 			]
+		},
+		{ // 45 Alesso --
+			images: [
+				"http://i.imgur.com/wpI5T1q.jpg",
+				"http://i.imgur.com/MSRQqr4.jpg",
+				"http://i.imgur.com/gDDmdd2.jpg",
+				"http://i.imgur.com/kegisX7.jpg",
+				"http://i.imgur.com/arWD0gI.jpg",
+				"http://i.imgur.com/Ue5u0ur.jpg",
+				"http://i.imgur.com/EA1GIAC.jpg",
+				"http://i.imgur.com/5pytrrT.jpg",
+				"http://i.imgur.com/zMCfv7h.jpg",
+				"http://i.imgur.com/fmrUD1Z.jpg",
+				"http://i.imgur.com/nxBwMDg.jpg",
+				"http://i.imgur.com/V7I4q2S.jpg",
+				"http://i.imgur.com/t4Znot5.jpg",
+				"http://i.imgur.com/DyZBFX6.jpg",
+				"http://i.imgur.com/dopMjvz.jpg",
+				"http://i.imgur.com/TttWwm3.jpg",
+				"http://i.imgur.com/Igi0pUk.jpg",
+				"http://i.imgur.com/PG5LvKw.jpg",
+				"http://i.imgur.com/3v5lPw2.jpg",
+				"http://i.imgur.com/7ir0JQX.jpg",
+				"http://i.imgur.com/Rubt0PD.jpg",
+				"http://i.imgur.com/ENfEDYx.jpg",
+				"http://i.imgur.com/DipB1CK.jpg",
+				"http://i.imgur.com/GY4gWNd.jpg",
+				"http://i.imgur.com/SqRlK15.jpg"
+			]
 		}
 	];
 	$("nav li").each(function()
