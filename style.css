@@ -25,9 +25,9 @@ header h1
 }
 nav
 {
-	width: 777px;
+	width: 782px;
 	position: relative;
-	height: 375px;
+	height: 415px;
 	margin: 0px auto;
 }
 nav.small
@@ -69,18 +69,28 @@ nav > ul > li:nth-child(4)
 }
 nav > ul > li:nth-child(5)
 {
-	top: 10px;
-	left: 465px;
+	top: 330px;
+	left: 310px;
 }
 nav > ul > li:nth-child(6)
 {
 	top: 10px;
-	left: 631px;
+	left: 495px;
 }
 nav > ul > li:nth-child(7)
 {
-	top: 195px;
-	left: 631px;
+	top: 320px;
+	left: 495px;
+}
+nav > ul > li:nth-child(8)
+{
+	top: 10px;
+	left: 661px;
+}
+nav > ul > li:nth-child(9)
+{
+	top: 220px;
+	left: 661px;
 }
 nav.small > ul > li
 {
