@@ -1972,6 +1972,33 @@ $(function($)
 				"http://i.imgur.com/aLeb72Y.jpg",
 				"http://i.imgur.com/rLjnfb2.jpg"
 			]
+		},
+		{ // 51 Hoxton Revenge --
+			images: [
+				"http://i.imgur.com/PQaBABf.jpg",
+				"http://i.imgur.com/31MU0LO.jpg",
+				"http://i.imgur.com/YBtpApf.jpg",
+				"http://i.imgur.com/1Ik80oW.jpg",
+				"http://i.imgur.com/iZhxAzw.jpg",
+				"http://i.imgur.com/c3hyA6A.jpg",
+				"http://i.imgur.com/vHDjii4.jpg",
+				"http://i.imgur.com/6jhaCFN.jpg",
+				"http://i.imgur.com/DzRaFdc.jpg",
+				"http://i.imgur.com/wYr4RKs.jpg",
+				"http://i.imgur.com/KBTG1m4.jpg",
+				"http://i.imgur.com/I2yNtd3.jpg",
+				"http://i.imgur.com/zSKcCTe.jpg",
+				"http://i.imgur.com/Jvy94zU.jpg",
+				"http://i.imgur.com/nHAx1Qg.jpg",
+				"http://i.imgur.com/9GkyNrI.jpg",
+				"http://i.imgur.com/WmFWDPh.jpg",
+				"http://i.imgur.com/D4JyOEa.jpg",
+				"http://i.imgur.com/znskoCc.jpg",
+				"http://i.imgur.com/Z1Za6zM.jpg",
+				"http://i.imgur.com/sm1PUhr.jpg",
+				"http://i.imgur.com/nH3OJDz.jpg",
+				"http://i.imgur.com/NZsWLWh.jpg"
+			]
 		}
 	];
 	$("nav li").each(function()
