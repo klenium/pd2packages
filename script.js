@@ -950,7 +950,7 @@ $(function($)
 				]
 			]
 		},
-		{ // 22 Hoxton Breakout --
+		{ // 22 Hoxton Breakout Day 1 --
 			images: [
 				"http://i.imgur.com/FhSsdCu.jpg",
 				"http://i.imgur.com/ggNHspX.jpg",
@@ -1999,7 +1999,114 @@ $(function($)
 				"http://i.imgur.com/nH3OJDz.jpg",
 				"http://i.imgur.com/NZsWLWh.jpg"
 			]
-		}
+		},
+		{ // 52 Birth of Sky --
+			images: [
+				"http://i.imgur.com/lWXiNl4.jpg",
+				"http://i.imgur.com/7yrLhUW.jpg",
+				"http://i.imgur.com/xxTExwQ.jpg",
+				"http://i.imgur.com/FtSazJa.jpg",
+				"http://i.imgur.com/oE8AAim.jpg",
+				"http://i.imgur.com/FmMvJst.jpg",
+				"http://i.imgur.com/jCgLopU.jpg",
+				"http://i.imgur.com/17r55aU.jpg",
+				"http://i.imgur.com/QHlYHa0.jpg",
+				"http://i.imgur.com/8HOEEif.jpg",
+				"http://i.imgur.com/OyBiIf1.jpg",
+				"http://i.imgur.com/05VNyx0.jpg",
+				"http://i.imgur.com/qmW4Uum.jpg",
+				"http://i.imgur.com/vtM3of4.jpg",
+				"http://i.imgur.com/hFyH8Gg.jpg",
+				"http://i.imgur.com/5ry1zvF.jpg",
+				"http://i.imgur.com/VJp7V0U.jpg",
+				"http://i.imgur.com/3hgDTkk.jpg",
+				"http://i.imgur.com/u8S6sL0.jpg",
+				"http://i.imgur.com/VqCSB7r.jpg",
+				"http://i.imgur.com/zOmSCYa.jpg",
+				"http://i.imgur.com/NPS3RWh.jpg",
+				"http://i.imgur.com/iTFoFe5.jpg",
+				"http://i.imgur.com/c4tNSZy.jpg",
+				"http://i.imgur.com/4s0kZuD.jpg",
+				"http://i.imgur.com/ySd16k8.jpg",
+				"http://i.imgur.com/eQeWir2.jpg",
+				"http://i.imgur.com/hkh8Pyk.jpg",
+				"http://i.imgur.com/nlxYShJ.jpg",
+				"http://i.imgur.com/6bA9k3x.jpg",
+				"http://i.imgur.com/wzNbj8x.jpg",
+				"http://i.imgur.com/JqSpUFw.jpg",
+				"http://i.imgur.com/XgPcrgy.jpg"
+			]
+		},
+		{ // 53 Beneath the Mountain --
+			images: [
+				"http://i.imgur.com/Hc01qT1.jpg",
+				"http://i.imgur.com/tS2tiL2.jpg",
+				"http://i.imgur.com/7T852U5.jpg",
+				"http://i.imgur.com/YlHZqh5.jpg",
+				"http://i.imgur.com/YnGujzD.jpg",
+				"http://i.imgur.com/SBomyq2.jpg",
+				"http://i.imgur.com/7zIMoni.jpg",
+				"http://i.imgur.com/leJ3MMm.jpg",
+				"http://i.imgur.com/M6fyYP1.jpg",
+				"http://i.imgur.com/Kvm6eCT.jpg",
+				"http://i.imgur.com/1muIAJ4.jpg",
+				"http://i.imgur.com/tKlzVa3.jpg",
+				"http://i.imgur.com/VloBuwY.jpg",
+				"http://i.imgur.com/faQYnsV.jpg",
+				"http://i.imgur.com/itaNjFN.jpg",
+				"http://i.imgur.com/6VT60Az.jpg",
+				"http://i.imgur.com/QvzNYdK.jpg",
+				"http://i.imgur.com/8UaT2LE.jpg",
+				"http://i.imgur.com/z3XjIYI.jpg"
+			]
+		},
+		{ // 54 Santa's Workshop --
+			images: [
+				"http://i.imgur.com/1wwbd3l.jpg",
+				"http://i.imgur.com/LCb2tPs.jpg",
+				"http://i.imgur.com/TbjiNfb.jpg",
+				"http://i.imgur.com/sGpBweK.jpg",
+				"http://i.imgur.com/GzZbPlv.jpg",
+				"http://i.imgur.com/LzZMLm1.jpg",
+				"http://i.imgur.com/B6vhkB8.jpg",
+				"http://i.imgur.com/CXIHry7.jpg",
+				"http://i.imgur.com/LZgQUPL.jpg",
+				"http://i.imgur.com/C0HiUPQ.jpg",
+				"http://i.imgur.com/HrnaySf.jpg",
+				"http://i.imgur.com/agAXKek.jpg",
+				"http://i.imgur.com/y831BzF.jpg",
+				"http://i.imgur.com/mVeV4qW.jpg",
+				"http://i.imgur.com/G4WZny5.jpg",
+				"http://i.imgur.com/Gg0tDZR.jpg",
+				"http://i.imgur.com/rJXkgXK.jpg",
+				"http://i.imgur.com/OfNQPaZ.jpg",
+				"http://i.imgur.com/ak7941g.jpg"
+			]
+		},
+		{ // 55 Hoxton Breakout Day 2 --
+			images: [
+				"http://i.imgur.com/HN01EN0.jpg",
+				"http://i.imgur.com/Wj622B8.jpg",
+				"http://i.imgur.com/cUwpwu3.jpg",
+				"http://i.imgur.com/kwBXP9s.jpg",
+				"http://i.imgur.com/E02zWZ9.jpg",
+				"http://i.imgur.com/hUjQFW7.jpg",
+				"http://i.imgur.com/Sf8HgGj.jpg",
+				"http://i.imgur.com/D6tyT8r.jpg",
+				"http://i.imgur.com/9dz9qSD.jpg",
+				"http://i.imgur.com/IYgFQ7N.jpg",
+				"http://i.imgur.com/bthITE1.jpg",
+				"http://i.imgur.com/oGgFBIF.jpg",
+				"http://i.imgur.com/ZyTJXnJ.jpg",
+				"http://i.imgur.com/Qc5J8E5.jpg",
+				"http://i.imgur.com/zhyEtMg.jpg",
+				"http://i.imgur.com/rvHFPa0.jpg",
+				"http://i.imgur.com/9sLw8s4.jpg",
+				"http://i.imgur.com/6lubSts.jpg",
+				"http://i.imgur.com/TfJhXqp.jpg",
+				"http://i.imgur.com/7D5M14V.jpg"
+			]
+		},
 	];
 	$("nav li").each(function()
 	{

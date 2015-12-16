@@ -25,9 +25,9 @@ header h1
 }
 nav
 {
-	width: 782px;
+	width: 891px;
 	position: relative;
-	height: 440px;
+	height: 480px;
 	margin: 0px auto;
 }
 nav.small
@@ -43,7 +43,6 @@ nav ul
 }
 nav > ul
 {
-	/*display: table;*/
 	list-style-type: none;
 	width: 100%;
 }
@@ -59,38 +58,43 @@ nav > ul > li:nth-child(2)
 }
 nav > ul > li:nth-child(3)
 {
-	top: 10px;
-	left: 310px;
+	top: 320px;
+	left: 202px;
 }
 nav > ul > li:nth-child(4)
 {
-	top: 120px;
-	left: 310px;
+	top: 10px;
+	left: 408px;
 }
 nav > ul > li:nth-child(5)
 {
-	top: 355px;
-	left: 310px;
+	top: 120px;
+	left: 408px;
 }
 nav > ul > li:nth-child(6)
 {
-	top: 10px;
-	left: 495px;
+	top: 405px;
+	left: 408px;
 }
 nav > ul > li:nth-child(7)
 {
-	top: 320px;
-	left: 495px;
+	top: 10px;
+	left: 593px;
 }
 nav > ul > li:nth-child(8)
 {
-	top: 10px;
-	left: 661px;
+	top: 320px;
+	left: 593px;
 }
 nav > ul > li:nth-child(9)
 {
-	top: 220px;
-	left: 661px;
+	top: 10px;
+	left: 759px;
+}
+nav > ul > li:nth-child(10)
+{
+	top: 245px;
+	left: 759px;
 }
 nav.small > ul > li
 {
